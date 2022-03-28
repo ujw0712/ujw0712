@@ -1,7 +1,6 @@
 👋 안녕하세요. 웹 프론트엔드 개발자 유지원입니다 😎
 
-[https://ujw0712.github.io](https://ujw0712.github.io)
-
+- 🌱 Resume: [https://ujw0712.github.io](https://ujw0712.github.io)
 - 📚 I’m mainly developing using 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
