@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 
-- 😍 I’m interested in [OOP](), [Design-Pattern](), [Algorithm]()
+<!-- - 😍 I’m interested in [OOP](), [Design-Pattern](), [Algorithm]() -->
 - ✉️ How to reach me: ujw97@naver.com
               
 
